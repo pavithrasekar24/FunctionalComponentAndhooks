@@ -1,2 +1,0 @@
-# FunctionalComponentAndhooks
-Created with CodeSandbox
